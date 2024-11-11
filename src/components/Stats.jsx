@@ -15,8 +15,8 @@ const Stats = () => {
     return (
         <section className="p-6 my-6">
             <div className="max-w-2xl mx-auto my-8 space-y-4 text-center xl:col-span-2 xl:text-left">
-                <h2 className="text-2xl sm:text-4xl font-bold">Why shopping with us?</h2>
-                <p className="text-gray-500 text-sm sm:text-base">Lorem ipsum dolor, sit amet consectetur adipisicing elit. ad temporibus.</p>
+                <h2 className="text-2xl sm:text-4xl text-center font-bold">Why shopping with us?</h2>
+                <p className="text-gray-500 text-center text-sm sm:text-base">Lorem ipsum dolor, sit amet consectetur adipisicing elit. ad temporibus.</p>
             </div>
             <div className="container grid grid-cols-1 gap-6 mx-auto sm:grid-cols-2 xl:grid-cols-4">
                 {
